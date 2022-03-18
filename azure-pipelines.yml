@@ -1,0 +1,29 @@
+# Starter pipeline
+# Start with a minimal pipeline that you can customize to build and deploy your code.
+# Add steps that build, run tests, deploy, and more:
+# https://aka.ms/yaml
+
+trigger:
+- main
+
+pool:
+  vmImage: windows-latest
+
+steps:
+- task: CmdLine@2
+  inputs:
+    script: |
+      pip install mkdocs
+      mkdocs build
+  displayName: Install MKDocs and build the site
+
+- task: AzureFileCopy@4
+  inputs:
+    SourcePath: 'site'
+    azureSubscription: 'Visual Studio Enterprise – MPN(5307496e-acc6-4615-9def-b5edbd8c62e9)'
+    Destination: 'AzureBlob'
+    storage: 'staticwebsite001pobi'
+    ContainerName: '$web'
+  displayName: Publish site to azure storage account - static website
+
+
