@@ -4,4 +4,6 @@ This reference architecture details a hub-spoke topology in Azure. The hub virtu
 
 The benefits of using a hub and spoke configuration include cost savings, overcoming subscription limits, and workload isolation.
 
+## Network Design
+
 ![Hub-Spoke topology](assets/images/hub-spoke.png "Hub-Spoke")
