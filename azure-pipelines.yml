@@ -19,7 +19,7 @@ steps:
 
 - task: AzureFileCopy@4
   inputs:
-    SourcePath: 'site/site'
+    SourcePath: 'site'
     azureSubscription: 'Visual Studio Enterprise – MPN(5307496e-acc6-4615-9def-b5edbd8c62e9)'
     Destination: 'AzureBlob'
     storage: 'staticwebsite001pobi'
