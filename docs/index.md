@@ -43,7 +43,11 @@ Sharing my knowledge at: www.maciejpoborca.pl 🖋
 - Microsoft Certified: Azure AI Engineer Associate
 - Microsoft 365 Certified: Enterprise Administrator Expert
 - Microsoft Certified: Security Operations Analyst Associate
+- Microsoft Certified: Azure Network Engineer Associate
+- Microsoft Certified: Azure Virtual Desktop Specialty
 
+---
 
+#### Education
 
 
