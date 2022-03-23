@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  vmImage: windows-latest
+  vmImage: ubuntu-latest
 
 steps:
 - task: CmdLine@2
@@ -16,6 +16,7 @@ steps:
       pip install mkdocs
       pip install mkdocs-material
       pip install mkdocs-pdf-export-plugin
+      apt install python3-pip python3-cffi python3-brotli libpango-1.0-0 libharfbuzz0b libpangoft2-1.0-0
       mkdocs build
   displayName: Install MKDocs and build the site
 
