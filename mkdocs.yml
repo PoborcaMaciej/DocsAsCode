@@ -2,4 +2,4 @@ site_name: Maciej Poborca CV
 theme:
   name: material
 plugins:
-    - with-pdf  
+    - pdf-export 
