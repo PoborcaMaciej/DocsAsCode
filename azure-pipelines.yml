@@ -20,13 +20,18 @@ steps:
       mkdocs build
   displayName: Install MKDocs and build the site
 
-- task: AzureFileCopy@4
+- task: PublishPipelineArtifact@1
   inputs:
-    SourcePath: 'site/*'
-    azureSubscription: 'Visual Studio Enterprise – MPN(5307496e-acc6-4615-9def-b5edbd8c62e9)'
-    Destination: 'AzureBlob'
-    storage: 'staticwebsite001pobi'
-    ContainerName: '$web'
-  displayName: Publish site to azure storage account - static website
+    targetPath: '$(Pipeline.Workspace)'
+    publishLocation: 'pipeline'
+
+#- task: AzureFileCopy@4
+#  inputs:
+#    SourcePath: 'site/*'
+#    azureSubscription: 'Visual Studio Enterprise – MPN(5307496e-acc6-4615-9def-b5edbd8c62e9)'
+#    Destination: 'AzureBlob'
+#    storage: 'staticwebsite001pobi'
+#    ContainerName: '$web'
+#  displayName: Publish site to azure storage account - static website 
 
 
