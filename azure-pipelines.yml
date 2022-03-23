@@ -15,6 +15,7 @@ steps:
     script: |
       pip install mkdocs
       pip install mkdocs-material
+      pip install mkdocs-with-pdf
       mkdocs build
   displayName: Install MKDocs and build the site
 
