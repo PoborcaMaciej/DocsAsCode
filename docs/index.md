@@ -50,4 +50,20 @@ Sharing my knowledge at: www.maciejpoborca.pl 🖋
 
 #### Education
 
+**Bachelor of Engineering**
+*Telecommunications and Computer Science – 2019
+Lodz University of Technology, PL*
 
+**Master of Engineering**
+*IT – 2020
+Lodz University of Technology, PL*
+
+---
+
+#### Experience
+
+---
+#### Languages
+
+English – B2+/C1
+Polish  - Native
