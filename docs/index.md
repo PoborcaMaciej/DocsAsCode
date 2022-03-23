@@ -62,8 +62,29 @@ Lodz University of Technology, PL*
 
 #### Experience
 
+**01.03.2022 - Present**
+*Cloud Architect | Sii Poland
+Projects:*
+
+- Coordinating CAF implementation in bunch of customers
+- Delivering internal technical trainings
+
+**01.09.2021 - 01.03.2022**
+*Senior Cloud Engineer | Sii Poland
+Projects:*
+
+- Working as a Cloud Architect for Automotive company.
+  - Azure
+  - Azure Data 
+  - Azure DevOps
+  - ARM
+  - REST API
+  
+
+
 ---
 #### Languages
 
 English – B2+/C1
+
 Polish  - Native
