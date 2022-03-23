@@ -4,4 +4,4 @@ theme:
 plugins:
     - page-to-pdf
 nav:
-    - CV: 'cv.md'
+    - CV: 'index.md'
