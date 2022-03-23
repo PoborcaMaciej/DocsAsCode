@@ -86,6 +86,7 @@ Projects:
 *System Architect | Fujitsu Poland*
 
 Projects:
+
   - Azure
   - Defender for Endpoint design&implementation for 12k machines
   - Migration of Microsoft Exchange to the Cloud
@@ -97,6 +98,7 @@ Projects:
 *Senior Cloud Engineer | Fujitsu Poland*
 
 Projects:
+
   - 3rd Line Support in Messaging & Collaboration team responsible for Cloud Technology
   - StorSimple: deployment and support (virtual and physical)
   - AWS environment configuration and deployment
