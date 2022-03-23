@@ -1,2 +1,3 @@
 site_name: Maciej Poborca Docs
-theme: readthedocs
+theme:
+  name: gitbook
