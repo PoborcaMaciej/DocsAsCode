@@ -1,9 +1,29 @@
-# Introduction
+![alt text](./assets/images/cvphoto.png "Maciej Poborca")  
+**Maciej Poborca**
+---
+#### Contact information
+*Address: Harcerska 2/3 98-100 Łask*
+*Telephone number: + 48 603 674 539*
+*Address email: poborcamaciej@gmail.com*
+*LinkedIn:https://www.linkedin.com/in/maciej-poborca/*
+*Blog: https://maciejpoborca.pl*
+*GitHub: https://github.com/PoborcaMaciej*
 
-This reference architecture details a hub-spoke topology in Azure. The hub virtual network acts as a central point of connectivity to many spoke virtual networks. The hub can also be used as the connectivity point to your on-premises networks. The spoke virtual networks peer with the hub and can be used to isolate workloads.
+---
+#### Summary
 
-The benefits of using a hub and spoke configuration include cost savings, overcoming subscription limits, and workload isolation.
+Azure/M365 Architect with 4+ years’ experience. Creation of several PoC environments, designing and implementing production solutions. Experience with management of MS/GCP partnership and Azure Workload management service. Microsoft Certified Trainer with 10+ trainings conducted.
 
-## Network Design
+Helping customers with implementing cloud solutions. Building brighter future using platform like Azure and AWS. Do you need to migrate your workload to cloud? Probably I am the right person to ask. ⛅
 
-![Hub-Spoke topology](assets/images/hub-spoke.png "Hub-Spoke")
+During my leisure time I like to read books related to technology and finance. 📖
+
+Retirement? I try to keep my future as little cloudy as possible. Investing my excess money in various types of assets. Splitting my savings into defensive and ofensive portfolios. 📈
+
+Are you interested in my results and thoughts? Please read my articles on my blog where I am writing about cloud technologies, finance and books.
+Sharing my knowledge at: www.maciejpoborca.pl 🖋
+
+
+
+
+
