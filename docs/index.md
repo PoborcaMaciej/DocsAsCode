@@ -82,7 +82,38 @@ Projects:
   - ARM
   - REST API
   
+**01.04.2021 - 01.09.2021**
+*System Architect | Fujitsu Poland*
 
+Projects:
+  - Azure
+  - Defender for Endpoint design&implementation for 12k machines
+  - Migration of Microsoft Exchange to the Cloud
+  - Design and confgiuration of M365
+  - Working on Service offering - Microsoft Azure
+  - Design & Implementation of VM Deployment automation
+
+**01.02.2020 - 01.04.2021**
+*Senior Cloud Engineer | Fujitsu Poland*
+
+Projects:
+  - 3rd Line Support in Messaging & Collaboration team responsible for Cloud Technology
+  - StorSimple: deployment and support (virtual and physical)
+  - AWS environment configuration and deployment
+  - Azure environment configuration and deployment
+  - Delivering technical trainings
+
+**01.03.2019 - 01.02.2020**
+*Cloud Engineer Expert | Fujitsu Poland*
+
+**01.08.2018 - 01.03.2019**
+*Cloud Engineer | Fujitsu Poland*
+
+**01.03.2018 - 01.08.2019**
+*Junior Cloud Engineer | Fujitsu Poland*
+
+**01.12.2017 - 01.03.2018**
+*Cloud Engineer Intern | Fujitsu Poland*
 
 ---
 #### Languages
