@@ -1,7 +1,6 @@
-site_name: Maciej Poborca CV
 theme:
   name: material
 plugins:
     - page-to-pdf
 nav:
-    - CV: 'index.md'
+    - CV: 'cv.md'
