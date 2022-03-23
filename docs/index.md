@@ -3,10 +3,15 @@
 ---
 #### Contact information
 *Address: Harcerska 2/3 98-100 Łask*
+
 *Telephone number: + 48 603 674 539*
+
 *Address email: poborcamaciej@gmail.com*
+
 *LinkedIn:https://www.linkedin.com/in/maciej-poborca/*
+
 *Blog: https://maciejpoborca.pl*
+
 *GitHub: https://github.com/PoborcaMaciej*
 
 ---
@@ -23,6 +28,21 @@ Retirement? I try to keep my future as little cloudy as possible. Investing my e
 Are you interested in my results and thoughts? Please read my articles on my blog where I am writing about cloud technologies, finance and books.
 Sharing my knowledge at: www.maciejpoborca.pl 🖋
 
+---
+#### Certficates
+
+- Microsoft Certified: Azure Fundamentals
+- AWS Certified Solutions Architect – Associate
+- Microsoft Certified: Azure Administrator Associate
+- Microsoft Certified: Azure Data Fundamentals
+- Microsoft Certified: Azure Solutions Architect Expert
+- Microsoft Certified: Azure Security Engineer Associate
+- Microsoft Certified: Security, Compliance, and Identity Fundamentals
+- Microsoft Certified Trainer
+- Microsoft 365 Certified: Security Administrator Associate
+- Microsoft Certified: Azure AI Engineer Associate
+- Microsoft 365 Certified: Enterprise Administrator Expert
+- Microsoft Certified: Security Operations Analyst Associate
 
 
 
