@@ -1,4 +1,4 @@
-name: GitHub Actions - Deploy Azure Static Website on Azure Storage Account 
+name: GitHub Actions - Deploy Azure Static Website on Azure Storage Account 2
 on: [push]
 jobs:
   Build_Deploy:
