@@ -5,3 +5,4 @@ plugins:
     - page-to-pdf
 nav:
     - CV: 'index.md'
+    - network: 'test.md'
