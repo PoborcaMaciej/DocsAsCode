@@ -1,0 +1,11 @@
+name: GitHub Actions - Deploy Azure Static Website on Azure Storage Account 
+on: [push]
+jobs:
+  Build_Deploy:
+    runs-on: windows-latest
+    steps:
+      - run: pip install mkdocs
+      - run: pip install mkdocs-material
+      - run: pip install mkdocs-page-pdf
+      - run: mkdocs build
+      
