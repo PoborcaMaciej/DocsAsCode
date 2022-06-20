@@ -1,8 +1,7 @@
 site_name: Maciej Poborca CV
 theme:
-  name: gitbook
+  name: material
 plugins:
     - page-to-pdf
 nav:
     - CV: 'index.md'
-    - Network: 'test.md'
