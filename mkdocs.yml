@@ -3,6 +3,7 @@ theme:
   name: gitbook
 plugins:
     - page-to-pdf
+    - search
 nav:
     - CV: 'index.md'
     - Network: 'test.md'
