@@ -3,6 +3,7 @@ theme:
   name: material
 plugins:
     - page-to-pdf
+    - search
 nav:
     - CV: 'index.md'
     - network: 'test.md'
