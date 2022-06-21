@@ -14,7 +14,6 @@
 
 *GitHub: https://github.com/PoborcaMaciej*
 
-*Halko: Test*
 
 ---
 #### Summary
